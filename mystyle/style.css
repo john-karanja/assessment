@@ -1,0 +1,52 @@
+.jumbotron {
+	background-image: url("/C:/Users/john/Desktop/self-assesment/Self_Assessments/Assessment1/assets/big_img.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+
+.blogpost {
+	padding: 0 100px;
+}
+
+.blogpost h3 {
+	padding-bottom: 20px;
+}
+.blogpost p {
+	line-height: 1.5em;
+	padding-bottom: 25px;
+
+}
+
+.btn {
+	background-color: #3B3B3B; 
+	color: white;
+	border: none;
+}
+
+.logos {
+	padding-top: 100px;
+}
+
+.title {
+	padding-top: 50px;
+}
+
+.title p {
+	line-height: 1.5em;
+}
+
+.title h3 {
+	padding-top: 30px;
+}
+
+.title2 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.ad {
+	background-color: lightgreen;
+	height: 100px;
+
+}
